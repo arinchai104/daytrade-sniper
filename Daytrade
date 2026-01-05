@@ -135,7 +135,7 @@
     </div>
 
     <script>
-        const apiKey = "";
+        const apiKey = "AIzaSyAj6sJHLZtSTG7SDk-1LtzNGCL0gQwL4Y8";
         let currentMode = '1';
         let imagesData = [null, null, null];
 
